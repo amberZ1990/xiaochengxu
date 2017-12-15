@@ -135,7 +135,6 @@ color:#ccc;
   position: absolute;
   top:590rpx;
   width: 100%;
-  height:100%;
 }
 .list-item{
   width:100%;
